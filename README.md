@@ -10,6 +10,7 @@
 7 Hello Maxim 3
 8
 9 .
-new testa
+new test
+a
 b
 c
