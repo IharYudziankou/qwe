@@ -9,8 +9,7 @@
 7 Hello Maxim 2
 7 Hello Maxim 3
 8
-9
-new test
-a
+9 .
+new testa
 b
 c
